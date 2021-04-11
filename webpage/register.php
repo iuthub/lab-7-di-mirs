@@ -8,8 +8,9 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
     $fullname=$_POST["fullname"];
     $email=$_POST["email"];
     $pass=$_POST["pwd"];
-    $passc=$_POST["confirm_pwd"];
     $date = date('Y-m-d H:i:s');
+    $passc=$_POST["confirm_pwd"];
+    
 
     if(
         preg_match('/[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-zA-Z]{1,3}/i',$email)&&

@@ -5,6 +5,6 @@
 
 ### Student Details:
 
-- **Student ID**: U1910060
-- **Student Name**: Abdullokh Alimov
-- **Section Number**: 002
+- **Student ID**: U1910042
+- **Student Name**: Dilnozakhon Mirsaidova
+- **Section Number**: 001
